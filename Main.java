@@ -16,7 +16,7 @@ public class Main {
 // Calling the addExclamation method
     addExclamationPoint("Gemma Loves Pizza");
   }
-// Creating a new method to be used on an object
+// Creating a new method to be used on an object, this new method is to add an ! to the string presented in the parenthesis when the method is called.  
     public static void addExclamation(String s){
     System.out.println(s + "!");
 
